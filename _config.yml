@@ -35,4 +35,3 @@ lang_map:
     ext: py
   - name: Ruby
     ext: rb
-theme: jekyll-theme-cayman
