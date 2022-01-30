@@ -2,3 +2,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.idea/
+out/
+*.iml
+Gemfile.lock
+.DS_Store
+.vscode/
